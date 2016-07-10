@@ -1,1 +1,1 @@
-Creatign a new branch is quick
+Creatign a new branch is quick $ simple
